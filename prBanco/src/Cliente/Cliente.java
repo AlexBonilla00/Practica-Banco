@@ -16,8 +16,7 @@ public class Cliente {
         this.nombre = nombre;
         this.apellidos = apellidos;
         this.edad = edad;
-    } 
-
+    
 
 }
-
+}
